@@ -1,0 +1,7 @@
+llmcompressor==0.9.0
+transformers==4.57.3
+accelerate==1.12.0
+qwen-vl-utils==0.0.14
+torchvision==0.22.0+cu128
+torch==2.7.0+cu128
+# flash-attn  # 选装，如果安装缓慢可忽略
